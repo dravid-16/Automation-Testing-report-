@@ -1,0 +1,4 @@
+Opened: practice
+Opened: blog
+Opened: courses
+Opened: contact

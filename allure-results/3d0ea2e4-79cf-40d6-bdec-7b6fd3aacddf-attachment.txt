@@ -1,0 +1,6 @@
+Opened: Google
+Opened: Wikipedia
+Back to: Google
+Forward to: Wikipedia
+Page refreshed: Wikipedia
+Current URL: https://www.wikipedia.org/

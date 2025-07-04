@@ -1,0 +1,6 @@
+Alert Text: I am a JS Alert
+Result message: You successfully clicked an alert
+Confirm Text: I am a JS Confirm
+Result message: You clicked: Cancel
+Prompt Text: I am a JS prompt
+Result message: You entered: ATHITHYAN
